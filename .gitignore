@@ -1,0 +1,25 @@
+# Audio, models and data stay out of git (large, and recordings of real people are personal data)
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.flac
+*.ogg
+*.webm
+*.zip
+*.onnx
+*.tflite
+*.npy
+raw/
+test/
+my_custom_model/
+# Environments and secrets
+.venv/
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+# Local project data (recordings, clips, models, private notes) -- never pushed
+data/
+models/
+local/

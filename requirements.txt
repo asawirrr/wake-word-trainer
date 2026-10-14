@@ -1,0 +1,7 @@
+# For the scripts that run on your computer (the notebook installs its own packages on Colab).
+requests
+numpy
+scipy
+openwakeword==0.6.0
+onnxruntime
+# ffmpeg must be installed separately and on PATH.

@@ -1,0 +1,9 @@
+wake-word-trainer
+Copyright 2026 the wake-word-trainer contributors
+
+This project builds on openWakeWord (https://github.com/dscripka/openWakeWord),
+Copyright David Scripka, licensed under the Apache License, Version 2.0.
+The training notebook is adapted from openWakeWord's notebooks/automatic_model_training.ipynb.
+
+openWakeWord's speech embedding model is based on Google's speech embedding model (TensorFlow Hub),
+licensed under the Apache License, Version 2.0.
